@@ -1,5 +1,5 @@
-### Emotion_Recognition
-model from GeorgiosKyritsis
+### Emotion Recognition
+model from GeorgiosKyritsis https://github.com/GeorgiosKyritsis/Emotion_Recognition
 
 ### The original datasets 
 can be downloaded from the following websites:
