@@ -1,8 +1,9 @@
 ### Facial expression data 
-from https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+FER challenge / dataset @Kaggle
 
 Original format: csv file with columns (classLabel, pixels values, train/test)
 Transformed into big ndarrays.
+https://drive.google.com/drive/folders/1upcgcAuQynorO4_Qhr8H0_Dt-RlN5YjS?usp=sharing
 
 
 ### FER data from 
@@ -11,17 +12,11 @@ Transformed into big ndarrays.
 
 
 keywords = {competition, dataset, representation learning},  
-
 title = {Challenges in Representation Learning: A report on three machine learning contests},  
-
 year = {2013},  
-
 institution = {Unicer},  
-
 url = {http://arxiv.org/abs/1307.0414},  
-
 abstract = {The ICML 2013 Workshop on Challenges in Representation  
-     
 Learning focused on three challenges: the black box learning challenge,
 the facial expression recognition challenge, and the multimodal learn-
 ing challenge. We describe the datasets created for these challenges and
