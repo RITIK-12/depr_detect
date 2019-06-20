@@ -1,5 +1,5 @@
 ### Emotion Recognition
-model from GeorgiosKyritsis https://github.com/GeorgiosKyritsis/Emotion_Recognition
+the pretrained model (about age, emotion, gender) is from GeorgiosKyritsis https://github.com/GeorgiosKyritsis/Emotion_Recognition
 
 ### The original datasets 
 can be downloaded from the following websites:
