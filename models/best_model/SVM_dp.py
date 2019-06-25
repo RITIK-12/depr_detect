@@ -78,12 +78,10 @@ np.save('Y.npy',Y)
 
 X = np.load('X.npy')
 Y = np.load('Y.npy')
-x_train, x_test, y_train, y_test = train_test_split(X, Y, random_state=0, test_size=50)
+x_train, x_test, y_train, y_test = train_test_split(X, Y, random_state=0, test_size=0.25)
 
 
 # In[26]:
-
-
 clf = svm.SVC(C=55,kernel='linear',gamma=0.005)
 clf.fit(x_train, y_train)
 
