@@ -29,7 +29,7 @@ for i in Y:
 # In[12]:
 
 
-x_train, x_test, y_train, y_test = train_test_split(emotion_data, y_, random_state=0, test_size=50)
+x_train, x_test, y_train, y_test = train_test_split(emotion_data, y_, random_state=0, test_size=0.25)
 
 
 # In[14]:
