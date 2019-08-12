@@ -5,3 +5,7 @@ the pretrained model (about age, emotion, gender) @ GeorgiosKyritsis
 can be downloaded from the following websites:  
 
 https://github.com/microsoft/FERPlus  
+
+Depression classification accuracy: ~70% (Transfer Learning.ipynb)
+
+
